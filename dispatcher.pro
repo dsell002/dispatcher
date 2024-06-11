@@ -19,3 +19,6 @@ HEADERS  += mainwindow.h \
     scheduler.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    README.md
